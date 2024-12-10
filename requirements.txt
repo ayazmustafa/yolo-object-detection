@@ -1,6 +1,6 @@
-pywin32
 numpy
+pywin32
 Pillow
 opencv-python
-jupyter
-pynput
+keyboard
+pyautogui
